@@ -33,7 +33,7 @@ confort de ses collobaratuers.
 
 le diagramme de classe contient 4 classes: réunion, collaborateur, reservation, et salle. ci-dessous sa representation:
 
-![Classe UML diagram](/target/images/GestionsSalles.png)
+![Classe UML diagram](/images/GestionsSalles.png)
 
 ## Technologies Utilisées
 - Spring Boot
